@@ -31,7 +31,12 @@ DNNのモデルファイル.今回の対象ではフキノトウとハシリド�
 DNNによる判別によって有毒植物であった場合に再生される警告音声.
 
 ## SysMLモデル  
-
+![01-contex](https://user-images.githubusercontent.com/77145197/105345981-4a4dec00-5c28-11eb-9130-a79d4e68f947.png)
+![02-usecase](https://user-images.githubusercontent.com/77145197/105345982-4ae68280-5c28-11eb-9a67-c8935969a886.png)
+![03-req1](https://user-images.githubusercontent.com/77145197/105345987-4b7f1900-5c28-11eb-9ed0-8cd093dd54aa.png)
+![04-req2](https://user-images.githubusercontent.com/77145197/105345972-491cbf00-5c28-11eb-83e2-48418e5adf10.png)
+![05-block](https://user-images.githubusercontent.com/77145197/105345975-49b55580-5c28-11eb-9dbf-b4dc26aa00a1.png)
+![06-act](https://user-images.githubusercontent.com/77145197/105345978-4a4dec00-5c28-11eb-8bcf-597684eea7bd.png)
 
 ##  プログラム ライセンス 
 MIT  
